@@ -1,0 +1,11 @@
+{
+  "name": "youtube-uploader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "open": "^6.2.0",
+    "videoshow": "^0.1.11",
+    "youtube-api": "^2.0.10"
+  }
+}
